@@ -13,3 +13,14 @@
 ![state chart diagram]![state chart diagram for pasport management system](https://user-images.githubusercontent.com/114128307/192435501-db2642bb-792c-4740-ba8c-c38773c0a3e8.JPG)
 
 ![[use case]![use case for passport manaement system](https://user-images.githubusercontent.com/114128307/192436637-df228496-b7ec-42cb-9429-0630ccdbf154.JPG)
+
+![experment2]![use case]![use case for book bank regestration](https://user-images.githubusercontent.com/114128307/192447318-48493ae9-2f0e-468c-8001-6cff2ede6cc3.JPG)
+
+![]![CLASS DIAGRAM FOR book bank regestration system](https://user-images.githubusercontent.com/114128307/192447552-876f93b1-65e2-4f84-b18d-2fbd38bfcf10.JPG)
+
+![experment2]![Collabration  DIAGRAM FOR book bank regestration system](https://user-images.githubusercontent.com/114128307/192447945-fa24d01e-5d03-4d89-a340-f2d4d5af264b.JPG)
+
+![experment2]![activity diagram for book bank registration system](https://user-images.githubusercontent.com/114128307/192447946-cc818870-c4ab-454c-96cc-c71108099851.JPG)
+
+![experment2]![component diagram for book bank registration system](https://user-images.githubusercontent.com/114128307/192449647-1e90cdd4-1c4d-4183-8096-70aa5bebeb79.JPG)
+
