@@ -24,12 +24,22 @@
 
 ![component diagram]![component diagram for book bank registration system](https://user-images.githubusercontent.com/114128307/192449647-1e90cdd4-1c4d-4183-8096-70aa5bebeb79.JPG)
 
-![deployement diagram ]!![deployement diagram for book bank regestration system system](https://user-images.githubusercontent.com/114128307/192459020-afe0208a-dcc1-4495-bbcf-c4bc93463c7c.JPG)
+![deployement diagram ]![deployement diagram for book bank regestration system system](https://user-images.githubusercontent.com/114128307/192459020-afe0208a-dcc1-4495-bbcf-c4bc93463c7c.JPG)
 
 ![experment3]![use case](https://user-images.githubusercontent.com/114128307/192716569-ca3d3be8-f43a-4a19-8f38-a9c05d9859db.png)
 
-![CLASS DIAGRAM](https://user-images.githubusercontent.com/114128307/192716847-fb779381-4489-4817-a57e-81f1d28e2b3f.png)
+![CLASS DIAGRAM]!(https://user-images.githubusercontent.com/114128307/192716847-fb779381-4489-4817-a57e-81f1d28e2b3f.png)
 
-![activity diagram](https://user-images.githubusercontent.com/114128307/192717011-f0a6786d-1ffd-4e00-9a39-b9f03c8171a3.png)
+![activity diagram]!(https://user-images.githubusercontent.com/114128307/192717011-f0a6786d-1ffd-4e00-9a39-b9f03c8171a3.png)
 
+![Collabration  DIAGRAM]!(https://user-images.githubusercontent.com/114128307/192723338-6cb62ba1-38d2-406e-b47a-3d33f3a77a36.png)
+
+![SEQUENCE DIAGRAM]!(https://user-images.githubusercontent.com/114128307/192723634-b9381c3e-bc89-43f3-86b2-bfd16f0efef9.png)
+
+
+![state chart diagram]!(https://user-images.githubusercontent.com/114128307/192723837-53da93e7-e9d8-407f-9695-9f1a137d3e7b.png)
+
+[component diagram]!(https://user-images.githubusercontent.com/114128307/192724159-95e94057-7d4b-4aa0-ad1d-a8966e4719e4.png)
+
+![deployement diagram ]!(https://user-images.githubusercontent.com/114128307/192724561-e0dc3602-cf3c-4a82-bb2a-5fb68141b322.png)
 
