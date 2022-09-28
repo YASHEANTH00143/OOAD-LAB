@@ -25,3 +25,11 @@
 ![component diagram]![component diagram for book bank registration system](https://user-images.githubusercontent.com/114128307/192449647-1e90cdd4-1c4d-4183-8096-70aa5bebeb79.JPG)
 
 ![deployement diagram ]!![deployement diagram for book bank regestration system system](https://user-images.githubusercontent.com/114128307/192459020-afe0208a-dcc1-4495-bbcf-c4bc93463c7c.JPG)
+
+![experment3]![use case](https://user-images.githubusercontent.com/114128307/192716569-ca3d3be8-f43a-4a19-8f38-a9c05d9859db.png)
+
+![CLASS DIAGRAM](https://user-images.githubusercontent.com/114128307/192716847-fb779381-4489-4817-a57e-81f1d28e2b3f.png)
+
+![activity diagram](https://user-images.githubusercontent.com/114128307/192717011-f0a6786d-1ffd-4e00-9a39-b9f03c8171a3.png)
+
+
