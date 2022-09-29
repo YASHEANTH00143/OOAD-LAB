@@ -66,3 +66,11 @@
 ![experment14][EX NO 14 e commers system.docx](https://github.com/YASHEANTH00143/OOAD-LAB/files/9670885/EX.NO.14.e.commers.system.docx)
 
 ![experment15][Experiment 15 Blood Bank Management System.docx](https://github.com/YASHEANTH00143/OOAD-LAB/files/9670785/Experiment.15.Blood.Bank.Management.System.docx)
+
+![experment25]![class diagram for online voting system](https://user-images.githubusercontent.com/114128307/192947387-36b8684e-f045-42aa-a286-8c0e1e739991.JPG)
+![start chart diagram for online voting system](https://user-images.githubusercontent.com/114128307/192947407-fcde3e2b-6093-4e36-99e3-9f16f185ff29.JPG)
+![sequence diagram for online voting system](https://user-images.githubusercontent.com/114128307/192947410-dc62c867-5470-48fb-8916-cacceec3e6ed.JPG)
+![activity diagram for online voting system](https://user-images.githubusercontent.com/114128307/192947413-5642d3da-274f-422d-b708-c09e643be890.JPG)
+![collabiratio  diagram for online voting system](https://user-images.githubusercontent.com/114128307/192947404-10580fdf-5e25-436f-8178-4fc052ca94dd.JPG)
+![online voting system](https://user-images.githubusercontent.com/114128307/192947400-515c7678-9394-4b3d-8857-efa39ceabfcc.JPG)
+![deployment diagram for online voting system](https://user-images.githubusercontent.com/114128307/192947402-574c988a-6e7c-4b9e-98be-36c591e2b176.JPG)
